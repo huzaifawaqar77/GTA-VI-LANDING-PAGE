@@ -41,6 +41,7 @@ const PostCard = () => {
                 />
                 <button className={"group-hover:bg-yellow transition duration-700"}>Explore Leonida Keys</button>
             </div>
+
         </section>
     )
 }
