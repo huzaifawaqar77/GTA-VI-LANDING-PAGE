@@ -4,10 +4,10 @@ const ComingSoon = () => {
     return (
         <section className={"entrance-message"}>
             <div className="h-full col-center gap-10">
-                <img src={"/images/logo.webp"} alt={"logo"} className={"entrance-logo"} />
+                <img src={"/images/logo.webp"} alt={"logo"} className={"entrance-logo "} />
 
-                <div className={"text-wrap"}>
-                    <h3 className="gradient-title">
+                <div className={"text-wrap mt-24"}>
+                    <h3 className="gradient-title !important font-2xl">
                         Coming <br /> 14 August <br /> 2025
                     </h3>
                 </div>
